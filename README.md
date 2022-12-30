@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esbenes
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently working on the Capstone project at Re:Coded
 - 📫 How to reach me: enessalihbcelebi@gmail.com 
 
 <!---
